@@ -3,7 +3,7 @@ import os
 import requests
 from datetime import datetime
 
-API_URL = "https://canvas.eee.*.edu"
+API_URL = "https://canvas.eee.*.edu" # * is a wildcard, change this to your uni's domain.
 API_KEY = "your api key here"  # Replace with your actual token
 
 ALLOWED_EXTENSIONS = ['.pdf', '.zip', '.docx']
