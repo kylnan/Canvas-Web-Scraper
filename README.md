@@ -1,1 +1,1 @@
-Quick web scraper to download files from all your canvas courses
+### Quick web scraper to download files from all your canvas courses
